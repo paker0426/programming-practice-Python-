@@ -79,5 +79,3 @@ while True:
             sg.popup("種目を選択してください")
 
 window.close()
-
-
